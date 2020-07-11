@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "name": "Angie",
+      "avatar": "https://api.adorable.io/avatars/50/3.png",
+      "id": 1
+    },
+    {
+      "name": "Anna",
+      "avatar": "https://api.adorable.io/avatars/50/33.png",
+      "id": 2
+    },
+    {
+      "name": "Robert",
+      "avatar": "https://api.adorable.io/avatars/50/45.png",
+      "id": 3
+    },
+    {
+      "name": "John",
+      "avatar": "https://api.adorable.io/avatars/50/15.png",
+      "id": 4
+    },
+    {
+      "name": "Calvin",
+      "avatar": "https://api.adorable.io/avatars/50/1.png",
+      "id": 5
+    },
+    {
+      "name": "Harry",
+      "avatar": "https://api.adorable.io/avatars/50/23.png",
+      "id": 6
+    },
+    {
+      "name": "Daniel",
+      "avatar": "https://api.adorable.io/avatars/50/67.png",
+      "id": 7
+    },
+    {
+      "name": "Diego",
+      "avatar": "https://api.adorable.io/avatars/50/11.png",
+      "id": 8
+    },
+    {
+      "name": "Bartolomeu",
+      "avatar": "https://api.adorable.io/avatars/50/9.png",
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "user_id": 7,
+      "id": 1,
+      "img_url": "https://source.unsplash.com/random",
+      "likes": 13,
+      "description": "My gear for working 📱"
+    },
+    {
+      "user_id": 7,
+      "id": 2,
+      "img_url": "https://source.unsplash.com/random",
+      "likes": 5,
+      "description": "One of my favorite pictures 🏞"
+    },
+    {
+      "user_id": 2,
+      "id": 3,
+      "img_url": "https://source.unsplash.com/random",
+      "likes": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    {
+      "user_id": 4,
+      "id": 4,
+      "img_url": "https://source.unsplash.com/random",
+      "likes": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    {
+      "user_id": 5,
+      "id": 5,
+      "img_url": "https://source.unsplash.com/random",
+      "likes": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    {
+      "user_id": 3,
+      "id": 6,
+      "img_url": "https://source.unsplash.com/random",
+      "likes": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    {
+      "user_id": 2,
+      "id": 7,
+      "img_url": "https://source.unsplash.com/random",
+      "likes": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    {
+      "user_id": 6,
+      "id": 8,
+      "img_url": "https://source.unsplash.com/random",
+      "likes": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    {
+      "user_id": 8,
+      "id": 9,
+      "img_url": "https://source.unsplash.com/random",
+      "likes": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    }
+  ]
+}
