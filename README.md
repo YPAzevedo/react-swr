@@ -5,7 +5,7 @@
 https://swr.vercel.app/
 
 ## How to run 🏃🏻‍♂️
-1 - Clone repository
-2 - yarn
-3 - yarn start
-4 - yarn server
+- Clone repository
+- yarn
+- yarn start
+- yarn server
